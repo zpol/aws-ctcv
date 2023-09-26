@@ -1,7 +1,7 @@
-# aws-ctcv
-AWS ControlTower Security Controls Verifier
+# aws-ctcv - AWS ControlTower Security Controls Verifier
 
 
+![image](images/aws-ctcv.png)
 
 
 # Usage
@@ -49,3 +49,6 @@ CONFIGURATION STEPS:
 # Requirements & dependencies
  It only requires Internet connection in order to retrieve the full security controls list and compare it with the local one, but since this function is disabled for now the script CAN WORK OFFLINE :) 
  ( That part is just commented , feeel free to play with it ) 
+
+# DEMO
+![image](images/demo.gif)
