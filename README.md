@@ -5,13 +5,13 @@ AWS ControlTower Security Controls Verifier
 
 
 # Usage
-
+```
 Usage: ./aws-ctcv.sh <security_control_rule>
 Example: ./aws-ctcv.sh WAF.6
 	   ./aws-ctcv.sh -f <filename>
 	   ./aws-ctcv.sh -r 
        ./aws-ctcv.sh -all
-
+```
 
 # Context
 
